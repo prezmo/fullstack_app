@@ -1,0 +1,8 @@
+{
+  "editor.fontSize": 13,
+  "eslint.enable": true,
+  "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+  "files.insertFinalNewline": true,
+  "vetur.format.html.wrap_attributes": "force",
+  "vetur.format.js.InsertSpaceBeforeFunctionParenthesis": true
+}
